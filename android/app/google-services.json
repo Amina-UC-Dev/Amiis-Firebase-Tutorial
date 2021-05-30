@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541934905318",
+    "project_id": "amiis-fb",
+    "storage_bucket": "amiis-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541934905318:android:c3a8ce1e329aa2682f5827",
+        "android_client_info": {
+          "package_name": "com.firebase_amiis_tutoria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541934905318-cm1j3uq5ghud11lrt82018g60d8lu6at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhNs8GFGiTOZ-CPdLey0P3NQZGhMN5GLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541934905318-cm1j3uq5ghud11lrt82018g60d8lu6at.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
